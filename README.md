@@ -1,2 +1,0 @@
-# mmtReact
-Created with CodeSandbox
